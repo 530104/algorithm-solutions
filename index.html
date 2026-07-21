@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>题解集</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="算法与数据结构题解集">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      // ===== 基础设置 =====
+      name: '📖 题解集',
+      repo: 'https://github.com/530104/algorithm-solutions',
+
+      // ===== 侧边栏 =====
+      loadSidebar: '_sidebar.md',
+      subMaxLevel: 2,
+
+      // ===== 首页设为 README.md =====
+      homepage: 'README.md',
+
+      // ===== 导航栏 =====
+      navbar: true,
+      coverpage: false,
+
+      // ===== 搜索 =====
+      search: {
+        placeholder: '搜索题目...',
+        noData: '没有找到相关题目',
+        depth: 3,
+      },
+
+      // ===== 代码复制 =====
+      copyCode: {
+        buttonText: '📋 复制代码',
+        successText: '✅ 已复制',
+      },
+
+      // ===== 回到顶部 =====
+      backToTop: true,
+
+      // ===== 分页导航（上一篇/下一篇） =====
+      pagination: {
+        previousText: '⬅ 上一篇',
+        nextText: '下一篇 ➡',
+      },
+
+      // ===== 主题色 =====
+      themeColor: '#3eaf7c',
+    };
+  </script>
+
+  <!-- docsify 核心 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+
+  <!-- 插件：搜索 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+
+  <!-- 插件：代码复制 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/copy-code.min.js"></script>
+
+  <!-- 插件：分页导航 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/pagination.min.js"></script>
+
+  <!-- 插件：图片缩放 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+
+  <!-- 数学公式支持：KaTeX -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@0.16/dist/katex.min.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@1/dist/docsify-katex.min.js"></script>
+</body>
+</html>
