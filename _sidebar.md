@@ -20,6 +20,7 @@
   - [N 皇后](/solutions/03-dfs/n-queens.md)
   - [林克的命运之阵](/solutions/03-dfs/link-fate-matrix.md)
   - [净化迷雾森林](/solutions/03-dfs/purify-forest.md)
+  - [骑士的怜悯](/solutions/03-dfs/knight-tour.md)
 - **分治算法**
   - [章节说明](/solutions/04-divide-conquer/)
 - **二分算法**
