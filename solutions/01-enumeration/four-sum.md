@@ -40,7 +40,7 @@ nums.erase(unique(nums.begin(), nums.end()), nums.end()); // 去重
 for (int i = 0; i < nums.size(); i++)                   // 固定第一个数
     for (int j = i + 1; j < nums.size(); j++) {         // 固定第二个数
         for (int k = j + 1, l = nums.size() - 1; k < l; k++) {  // k 左指针，l 右指针
-            while (k < l - 1 && nums[i] + nums[j] + nums[k] + nums[l - 1] >= target) l--;
+            whi<= (k < l - 1 && nums[i] + nums[j] + nums[k] + nums[l - 1] >= target) l--;
             if (nums[i] + nums[j] + nums[k] + nums[l] == target)
                 res.push_back({nums[i], nums[j], nums[k], nums[l]});
         }
@@ -51,7 +51,7 @@ for (int i = 0; i < nums.size(); i++)                   // 固定第一个数
 
 ## 📝 总结
 
-$k$ 数之和问题的通用框架：外层固定前 $k-2$ 个值，最内层用双指针扫描。排序保证输出有序，去重避免重复结果。
+`k` 数之和问题的通用框架：外层固定前 `k-2` 个值，最内层用双指针扫描。排序保证输出有序，去重避免重复结果。
 
 ---
 

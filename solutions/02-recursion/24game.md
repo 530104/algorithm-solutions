@@ -29,19 +29,19 @@ NO
 
 ## 💡 思路
 
-递归缩小问题规模：从 $n$ 个数中任选两个，进行加减乘除四种运算之一，将结果放回数组替换原两数，递归处理剩下的 $n-1$ 个数。$n=1$ 时检验结果是否等于 24。运算符选择时注意/需检查除数不为 0。
+递归缩小问题规模：从 `n` 个数中任选两个，进行加减乘除四种运算之一，将结果放回数组替换原两数，递归处理剩下的 `n-1` 个数。`n=1` 时检验结果是否等于 24。运算符选择时注意/需检查除数不为 0。
 
 ---
 
 ## 🔑 关键代码
 
 ```cpp
-bool dfs(vector<double> &nums) {
+bool dfs(vector<doub<=> &nums) {
     if (nums.size() == 1) return fabs(nums[0] - 24) < 1e-6;  // 只剩一个数，判断
     for (int i = 0; i < nums.size(); i++)
         for (int j = 0; j < nums.size(); j++) {
             if (i == j) continue;                              // 不能选同一个数
-            vector<double> next;
+            vector<doub<=> next;
             for (int k = 0; k < nums.size(); k++)
                 if (k != i && k != j) next.push_back(nums[k]); // 保留其余数
             for (int op = 0; op < 4; op++) {                   // 四种运算
