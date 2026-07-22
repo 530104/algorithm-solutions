@@ -18,6 +18,7 @@
 - **深度优先搜索**
   - [章节说明](/solutions/03-dfs/)
   - [N 皇后](/solutions/03-dfs/n-queens.md)
+  - [林克的命运之阵](/solutions/03-dfs/link-fate-matrix.md)
 - **分治算法**
   - [章节说明](/solutions/04-divide-conquer/)
 - **二分算法**
