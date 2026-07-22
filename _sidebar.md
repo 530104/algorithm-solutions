@@ -8,6 +8,7 @@
   - [四数之和](/solutions/01-enumeration/four-sum.md)
 - **递归算法**
   - [章节说明](/solutions/02-recursion/)
+  - [汉诺塔 I](/solutions/02-recursion/hanoi.md)
 - **深度优先搜索**
   - [章节说明](/solutions/03-dfs/)
 - **分治算法**
