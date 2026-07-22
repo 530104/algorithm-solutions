@@ -15,3 +15,5 @@
 | 题号 | 题目 | 难度 |
 |------|------|------|
 | 1 | [完美立方](/solutions/01-enumeration/perfect-cube.md) | 🟢 简单 |
+| 2 | [人的周期](/solutions/01-enumeration/biorhythms.md) | 🟢 简单 |
+| — | 待添加... | |

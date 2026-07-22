@@ -2,6 +2,7 @@
 - **枚举算法**
   - [章节说明](/solutions/01-enumeration/)
   - [完美立方](/solutions/01-enumeration/perfect-cube.md)
+  - [人的周期](/solutions/01-enumeration/biorhythms.md)
 - **递归算法**
   - [章节说明](/solutions/02-recursion/)
 - **深度优先搜索**
