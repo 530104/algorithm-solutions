@@ -1,6 +1,7 @@
 - [🏠 首页](/)
 - **枚举算法**
   - [章节说明](/solutions/01-enumeration/)
+  - [完美立方](/solutions/01-enumeration/perfect-cube.md)
 - **递归算法**
   - [章节说明](/solutions/02-recursion/)
 - **深度优先搜索**
