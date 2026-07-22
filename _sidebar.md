@@ -10,6 +10,7 @@
   - [章节说明](/solutions/02-recursion/)
   - [汉诺塔 I](/solutions/02-recursion/hanoi.md)
   - [放苹果](/solutions/02-recursion/apples.md)
+  - [波兰表达式](/solutions/02-recursion/polish-notation.md)
 - **深度优先搜索**
   - [章节说明](/solutions/03-dfs/)
   - [N 皇后](/solutions/03-dfs/n-queens.md)

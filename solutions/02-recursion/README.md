@@ -16,4 +16,5 @@
 |------|------|------|
 | 1 | [汉诺塔 I](/solutions/02-recursion/hanoi.md) | 🟢 简单 |
 | 2 | [放苹果](/solutions/02-recursion/apples.md) | 🟢 简单 |
+| 3 | [波兰表达式](/solutions/02-recursion/polish-notation.md) | 🟡 中等 |
 | — | 待添加... | |
