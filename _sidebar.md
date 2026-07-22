@@ -14,6 +14,7 @@
   - [指数型枚举](/solutions/02-recursion/enum-exponential.md)
   - [组合型枚举](/solutions/02-recursion/enum-combination.md)
   - [排列型枚举](/solutions/02-recursion/enum-permutation.md)
+  - [算 24](/solutions/02-recursion/24game.md)
 - **深度优先搜索**
   - [章节说明](/solutions/03-dfs/)
   - [N 皇后](/solutions/03-dfs/n-queens.md)

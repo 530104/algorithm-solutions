@@ -20,4 +20,5 @@
 | 4 | [指数型枚举](/solutions/02-recursion/enum-exponential.md) | 🟡 中等 |
 | 5 | [组合型枚举](/solutions/02-recursion/enum-combination.md) | 🟡 中等 |
 | 6 | [排列型枚举](/solutions/02-recursion/enum-permutation.md) | 🟡 中等 |
+| 7 | [算 24](/solutions/02-recursion/24game.md) | 🟢 简单 |
 | — | 待添加... | |
