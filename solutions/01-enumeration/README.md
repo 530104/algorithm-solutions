@@ -18,4 +18,5 @@
 | 2 | [人的周期](/solutions/01-enumeration/biorhythms.md) | 🟢 简单 |
 | 3 | [两数之和](/solutions/01-enumeration/two-sum.md) | 🟡 中等 |
 | 4 | [三数之和](/solutions/01-enumeration/three-sum.md) | 🟡 中等 |
+| 5 | [四数之和](/solutions/01-enumeration/four-sum.md) | 🔴 困难 |
 | — | 待添加... | |

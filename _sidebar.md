@@ -5,6 +5,7 @@
   - [人的周期](/solutions/01-enumeration/biorhythms.md)
   - [两数之和](/solutions/01-enumeration/two-sum.md)
   - [三数之和](/solutions/01-enumeration/three-sum.md)
+  - [四数之和](/solutions/01-enumeration/four-sum.md)
 - **递归算法**
   - [章节说明](/solutions/02-recursion/)
 - **深度优先搜索**
