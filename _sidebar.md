@@ -11,6 +11,7 @@
   - [汉诺塔 I](/solutions/02-recursion/hanoi.md)
 - **深度优先搜索**
   - [章节说明](/solutions/03-dfs/)
+  - [N 皇后](/solutions/03-dfs/n-queens.md)
 - **分治算法**
   - [章节说明](/solutions/04-divide-conquer/)
 - **二分算法**
