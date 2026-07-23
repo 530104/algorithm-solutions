@@ -23,6 +23,8 @@
   - [骑士的怜悯](/solutions/03-dfs/knight-tour.md)
   - [蛋糕塔](/solutions/03-dfs/birthday-cake.md)
   - [记忆碎片验证](/solutions/03-dfs/sudoku-check.md)
+  - [寻找林克的回忆(1)](/solutions/03-dfs/sudoku-solver-1.md)
+  - [寻找林克的回忆(2)](/solutions/03-dfs/sudoku-solver-2.md)
 - **分治算法**
   - [章节说明](/solutions/04-divide-conquer/)
 - **二分算法**
