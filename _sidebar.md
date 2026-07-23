@@ -41,5 +41,9 @@
   - [最小预算值](/solutions/05-binary-search/min-budget.md)
 - **广度优先搜索**
   - [章节说明](/solutions/06-bfs/)
+  - [净化迷雾森林(广搜)](/solutions/06-bfs/purify-forest-bfs.md)
+  - [波克布林的巡逻范围](/solutions/06-bfs/patrol-range.md)
+  - [加农的入侵](/solutions/06-bfs/ganon-invasion.md)
+  - [骑士林克的怜悯(2)](/solutions/06-bfs/knight-mercy-2.md)
 - **动态规划**
   - [章节说明](/solutions/07-dp/)

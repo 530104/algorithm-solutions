@@ -16,4 +16,8 @@ BFS（Breadth-First Search）：逐层扩展，先近后远，适合求最短路
 
 | 题号 | 题目 | 难度 |
 |------|------|------|
+| 1 | [净化迷雾森林(广搜)](/solutions/06-bfs/purify-forest-bfs.md) | 🟡 中等 |
+| 2 | [波克布林的巡逻范围](/solutions/06-bfs/patrol-range.md) | 🟡 中等 |
+| 3 | [加农的入侵](/solutions/06-bfs/ganon-invasion.md) | 🟡 中等 |
+| 4 | [骑士林克的怜悯(2)](/solutions/06-bfs/knight-mercy-2.md) | 🟡 中等 |
 | — | 待添加... | |
