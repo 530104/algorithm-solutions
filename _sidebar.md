@@ -38,6 +38,7 @@
   - [攻击范围](/solutions/05-binary-search/range-search.md)
   - [求方程的根](/solutions/05-binary-search/equation-root.md)
   - [数的三次方根](/solutions/05-binary-search/cube-root.md)
+  - [最小预算值](/solutions/05-binary-search/min-budget.md)
 - **广度优先搜索**
   - [章节说明](/solutions/06-bfs/)
 - **动态规划**

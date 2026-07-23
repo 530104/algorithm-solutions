@@ -19,4 +19,5 @@
 | 2 | [攻击范围](/solutions/05-binary-search/range-search.md) | 🟡 中等 |
 | 3 | [求方程的根](/solutions/05-binary-search/equation-root.md) | 🟢 简单 |
 | 4 | [数的三次方根](/solutions/05-binary-search/cube-root.md) | 🟢 简单 |
+| 5 | [最小预算值](/solutions/05-binary-search/min-budget.md) | 🔴 困难 |
 | — | 待添加... | |
