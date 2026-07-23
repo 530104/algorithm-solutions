@@ -34,6 +34,10 @@
   - [求排列的逆序数](/solutions/04-divide-conquer/inversion-count.md)
 - **二分算法**
   - [章节说明](/solutions/05-binary-search/)
+  - [查找指定数](/solutions/05-binary-search/binary-search-basic.md)
+  - [攻击范围](/solutions/05-binary-search/range-search.md)
+  - [求方程的根](/solutions/05-binary-search/equation-root.md)
+  - [数的三次方根](/solutions/05-binary-search/cube-root.md)
 - **广度优先搜索**
   - [章节说明](/solutions/06-bfs/)
 - **动态规划**

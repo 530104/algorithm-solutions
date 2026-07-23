@@ -15,4 +15,8 @@
 
 | 题号 | 题目 | 难度 |
 |------|------|------|
+| 1 | [查找指定数](/solutions/05-binary-search/binary-search-basic.md) | 🟢 简单 |
+| 2 | [攻击范围](/solutions/05-binary-search/range-search.md) | 🟡 中等 |
+| 3 | [求方程的根](/solutions/05-binary-search/equation-root.md) | 🟢 简单 |
+| 4 | [数的三次方根](/solutions/05-binary-search/cube-root.md) | 🟢 简单 |
 | — | 待添加... | |
