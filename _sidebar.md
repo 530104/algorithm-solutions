@@ -6,7 +6,6 @@
   - [两数之和](/solutions/01-enumeration/two-sum.md)
   - [三数之和](/solutions/01-enumeration/three-sum.md)
   - [四数之和](/solutions/01-enumeration/four-sum.md)
-  - [记忆碎片验证](/solutions/01-enumeration/sudoku-check.md)
 - **递归算法**
   - [章节说明](/solutions/02-recursion/)
   - [汉诺塔 I](/solutions/02-recursion/hanoi.md)
@@ -23,6 +22,7 @@
   - [净化迷雾森林](/solutions/03-dfs/purify-forest.md)
   - [骑士的怜悯](/solutions/03-dfs/knight-tour.md)
   - [蛋糕塔](/solutions/03-dfs/birthday-cake.md)
+  - [记忆碎片验证](/solutions/03-dfs/sudoku-check.md)
 - **分治算法**
   - [章节说明](/solutions/04-divide-conquer/)
 - **二分算法**

@@ -40,7 +40,7 @@ nums.erase(unique(nums.begin(), nums.end()), nums.end()); // 去重
 
 for (int i = 0; i < nums.size(); i++) {                 // 固定第一个数
     for (int j = i + 1, k = nums.size() - 1; j < k; j++) {  // j 左指针，k 右指针
-        whi<= (j < k - 1 && nums[i] + nums[j] + nums[k - 1] >= target) k--;  // 右指针左移
+        while (j < k - 1 && nums[i] + nums[j] + nums[k - 1] >= target) k--;  // 右指针左移
         if (nums[i] + nums[j] + nums[k] == target)      // 找到三元组
             res.push_back({nums[i], nums[j], nums[k]});
     }

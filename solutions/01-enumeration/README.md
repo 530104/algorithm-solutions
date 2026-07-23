@@ -19,5 +19,4 @@
 | 3 | [两数之和](/solutions/01-enumeration/two-sum.md) | 🟡 中等 |
 | 4 | [三数之和](/solutions/01-enumeration/three-sum.md) | 🟡 中等 |
 | 5 | [四数之和](/solutions/01-enumeration/four-sum.md) | 🔴 困难 |
-| 6 | [记忆碎片验证](/solutions/01-enumeration/sudoku-check.md) | 🟡 中等 |
 | — | 待添加... | |

@@ -36,12 +36,12 @@ NO
 ## 🔑 关键代码
 
 ```cpp
-bool dfs(vector<doub<=> &nums) {
+bool dfs(vector<double> &nums) {
     if (nums.size() == 1) return fabs(nums[0] - 24) < 1e-6;  // 只剩一个数，判断
     for (int i = 0; i < nums.size(); i++)
         for (int j = 0; j < nums.size(); j++) {
             if (i == j) continue;                              // 不能选同一个数
-            vector<doub<=> next;
+            vector<double> next;
             for (int k = 0; k < nums.size(); k++)
                 if (k != i && k != j) next.push_back(nums[k]); // 保留其余数
             for (int op = 0; op < 4; op++) {                   // 四种运算
