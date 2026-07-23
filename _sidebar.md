@@ -27,6 +27,7 @@
   - [寻找林克的回忆(2)](/solutions/03-dfs/sudoku-solver-2.md)
 - **分治算法**
   - [章节说明](/solutions/04-divide-conquer/)
+  - [大数排序](/solutions/04-divide-conquer/quick-sort.md)
 - **二分算法**
   - [章节说明](/solutions/05-binary-search/)
 - **广度优先搜索**
