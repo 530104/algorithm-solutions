@@ -6,6 +6,7 @@
   - [两数之和](/solutions/01-enumeration/two-sum.md)
   - [三数之和](/solutions/01-enumeration/three-sum.md)
   - [四数之和](/solutions/01-enumeration/four-sum.md)
+  - [记忆碎片验证](/solutions/01-enumeration/sudoku-check.md)
 - **递归算法**
   - [章节说明](/solutions/02-recursion/)
   - [汉诺塔 I](/solutions/02-recursion/hanoi.md)
