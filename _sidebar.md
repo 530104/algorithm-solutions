@@ -31,6 +31,7 @@
   - [快速选择第k个数](/solutions/04-divide-conquer/quick-select.md)
   - [输出前k大的数](/solutions/04-divide-conquer/top-k.md)
   - [归并排序](/solutions/04-divide-conquer/merge-sort.md)
+  - [求排列的逆序数](/solutions/04-divide-conquer/inversion-count.md)
 - **二分算法**
   - [章节说明](/solutions/05-binary-search/)
 - **广度优先搜索**

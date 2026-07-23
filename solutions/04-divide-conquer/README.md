@@ -18,4 +18,5 @@
 | 2 | [快速选择第k个数](/solutions/04-divide-conquer/quick-select.md) | 🟡 中等 |
 | 3 | [输出前k大的数](/solutions/04-divide-conquer/top-k.md) | 🟡 中等 |
 | 4 | [归并排序](/solutions/04-divide-conquer/merge-sort.md) | 🟡 中等 |
+| 5 | [求排列的逆序数](/solutions/04-divide-conquer/inversion-count.md) | 🔴 困难 |
 | — | 待添加... | |
