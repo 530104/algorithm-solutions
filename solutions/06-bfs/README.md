@@ -21,4 +21,5 @@ BFS（Breadth-First Search）：逐层扩展，先近后远，适合求最短路
 | 3 | [加农的入侵](/solutions/06-bfs/ganon-invasion.md) | 🟡 中等 |
 | 4 | [骑士林克的怜悯(2)](/solutions/06-bfs/knight-mercy-2.md) | 🟡 中等 |
 | 5 | [滚石柱](/solutions/06-bfs/rolling-stone.md) | 🔴 困难 |
+| 6 | [Dijkstra 求最短路](/solutions/06-bfs/dijkstra-1.md) | 🟡 中等 |
 | — | 待添加... | |
