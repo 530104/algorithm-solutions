@@ -48,6 +48,7 @@
   - [滚石柱](/solutions/06-bfs/rolling-stone.md)
   - [Dijkstra 求最短路](/solutions/06-bfs/dijkstra-1.md)
   - [Dijkstra 堆优化](/solutions/06-bfs/dijkstra-2.md)
+  - [突袭路线](/solutions/06-bfs/topo-sort.md)
 - **动态规划**
   - [章节说明](/solutions/07-dp/)
   - [数字三角形](/solutions/07-dp/number-triangle.md)

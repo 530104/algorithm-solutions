@@ -23,4 +23,5 @@ BFS（Breadth-First Search）：逐层扩展，先近后远，适合求最短路
 | 5 | [滚石柱](/solutions/06-bfs/rolling-stone.md) | 🔴 困难 |
 | 6 | [Dijkstra 求最短路](/solutions/06-bfs/dijkstra-1.md) | 🟡 中等 |
 | 7 | [Dijkstra 堆优化](/solutions/06-bfs/dijkstra-2.md) | 🟡 中等 |
+| 8 | [突袭路线](/solutions/06-bfs/topo-sort.md) | 🟡 中等 |
 | — | 待添加... | |
