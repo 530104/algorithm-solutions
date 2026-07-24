@@ -45,6 +45,7 @@
   - [波克布林的巡逻范围](/solutions/06-bfs/patrol-range.md)
   - [加农的入侵](/solutions/06-bfs/ganon-invasion.md)
   - [骑士林克的怜悯(2)](/solutions/06-bfs/knight-mercy-2.md)
+  - [滚石柱](/solutions/06-bfs/rolling-stone.md)
 - **动态规划**
   - [章节说明](/solutions/07-dp/)
   - [数字三角形](/solutions/07-dp/number-triangle.md)
