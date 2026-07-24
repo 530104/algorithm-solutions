@@ -47,6 +47,7 @@
   - [骑士林克的怜悯(2)](/solutions/06-bfs/knight-mercy-2.md)
   - [滚石柱](/solutions/06-bfs/rolling-stone.md)
   - [Dijkstra 求最短路](/solutions/06-bfs/dijkstra-1.md)
+  - [Dijkstra 堆优化](/solutions/06-bfs/dijkstra-2.md)
 - **动态规划**
   - [章节说明](/solutions/07-dp/)
   - [数字三角形](/solutions/07-dp/number-triangle.md)
